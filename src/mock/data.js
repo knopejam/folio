@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile-pic.jpg',
-  paragraphOne: `I’m a queer Web Developer, Designer, && Wood Carver from the Jersey Shore, with a B.A. in Visual Arts from Stockton University and Full Stack Developer certificate from Rutgers University, and I’m always looking for new things to learn and problem-solve.`,
+  paragraphOne: `I’m a queer web developer, designer, and wood carver from the Jersey Shore, with a B.A. in Visual Arts from Stockton University and Full Stack Developer certificate from Rutgers University, and am always looking for new things to learn and problem-solve.`,
   paragraphTwo: `My favorite techs I’m currently working with are: Gatsby, Sanity.io, and have taken quite a liking to Java.`,
   paragraphThree: `When I’m not developing or designing, you can catch me at my workbench (a.k.a. an old kitchen table) carving out a present for a friend or taking my dog Lainey for a walk.`,
   paragraphFour: `Thanks for stopping by!`,
