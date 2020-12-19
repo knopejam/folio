@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile-pic.jpg',
   paragraphOne: `I’m a queer web developer, designer, and wood carver from the Jersey Shore, with a B.A. in Visual Arts from Stockton University and Full Stack Developer certificate from Rutgers University, and am always looking for new things to learn and problem-solve.`,
-  paragraphTwo: `My favorite techs I’m currently working with are: Gatsby, Sanity.io, and have taken quite a liking to Java.`,
+  paragraphTwo: `The tech I'm currently loving is Python and all of it's packages like turtle!`,
   paragraphThree: `When I’m not developing or designing, you can catch me at my workbench (a.k.a. an old kitchen table) carving out a present for a friend or taking my dog Lainey for a walk.`,
   paragraphFour: `Thanks for stopping by!`,
   resume: 'https://docs.google.com/document/d/1z0e5KeuK_jG8Uv_yCxZhIIW0Ko57X31bw9wD3gWUpVo/edit?usp=sharing', // if no resume, the button will not show up
